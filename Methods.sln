@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{D44E16FA-193D-47DA-B143-3AE9D48455E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seydaa", "Seydaa\Seydaa.csproj", "{85B16465-F05A-4CB1-ABED-38E0ECD6E7D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seydaa", "Seydaa\Seydaa.csproj", "{85B16465-F05A-4CB1-ABED-38E0ECD6E7D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Deneme", "Deneme", "{A930B09E-56B8-4A86-81C8-9895EAB1065E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
